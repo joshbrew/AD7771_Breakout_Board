@@ -1,0 +1,45 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "AD7771Breakout.brd" as of: 5/20/2020 7:54 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,1.693,1.353,0
+C2,Top,1.691,1.311,0
+C3,Top,1.571,1.354,0
+C4,Top,1.571,1.312,0
+C5,Top,1.288,1.091,90
+C6,Top,1.331,1.092,90
+C7,Top,1.274,0.969,180
+C8,Top,1.274,1.011,180
+C9,Top,1.907,1.120,90
+C10,Top,1.949,1.120,90
+C11,Top,1.864,1.060,90
+C12,Top,1.907,1.002,90
+C13,Top,1.949,1.002,90
+C14,Top,1.860,0.874,90
+C15,Top,1.903,0.869,90
+C16,Top,1.946,0.870,90
+C17,Top,1.815,0.858,90
+C18,Top,1.711,0.718,0
+C19,Top,1.711,0.676,0
+C20,Top,1.593,0.713,0
+C21,Top,1.591,0.671,0
+C22,Top,0.989,0.946,90
+C23,Top,1.127,1.057,180
+C24,Top,1.175,0.571,270
+C25,Top,1.132,0.571,90
+C26,Top,1.391,0.605,270
+C27,Top,0.944,0.946,270
+C28,Top,0.944,0.827,270
+C29,Top,1.309,0.747,270
+SJ1,Top,1.461,0.797,0
+U$1,Top,2.203,1.376,0
+U$2,Top,2.198,0.621,0
+U$5,Top,0.727,1.389,0
+U1,Top,1.589,1.019,270
+U2,Top,1.286,0.556,0
+U3,Top,1.095,0.954,0
+X2,Top,1.135,0.750,0
